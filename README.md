@@ -1,4 +1,4 @@
-# machinelearningvanilla
+# Heuristic Algorithms
 
 This repository consists of three different projects:
 
